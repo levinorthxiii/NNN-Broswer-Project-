@@ -1,4 +1,5 @@
 # NNN-Browser
+
 # 🔵 NNN Browser - Privacy Through Layers
 
 A **all-in-one privacy browser** with multi-layer encrypted routing, hidden services, and multi-network support.
@@ -77,14 +78,26 @@ ____________
 ]features:- 
 
 • Default NNN encrypted connection
+
 • Anti-Detect / Anti-fingerprint 
+
 • Ad blocker / Track Blocker
+
 • No Track Up (For Privacy) 
+
 • Security (Standard, Moderate, Heavy)
+
 • Mutual Exclusion (One Network at a Time): 
+
 • All individual network Toggle switch's
+
 • about:config 
+
 • network session restart (Change Network)
+____________
+]!Cons
+
+
 
 _______________
 ]This is All-in-One hidden service Can run without different tools 🔥
