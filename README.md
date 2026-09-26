@@ -12,7 +12,7 @@ A **all-in-one privacy browser** with multi-layer encrypted routing, hidden serv
 
 ## 🎯 What is NNN Browser?
 
-NNN Browser is a **privacy-first browser** that hides your identity and location using **3-layer encrypted routing**. Unlike regular browsers that expose your IP to every website, NNN Browser routes all your traffic through multiple encrypted hops, making it impossible for websites (or anyone) to know who you are.
+NNN Browser is an open-source privacy-focused browser currently in development, designed around the NNN Network, .nnn services, encrypted routing, network isolation, and support for multiple privacy/decentralized networks.
 
 ### Why You Need It
 
