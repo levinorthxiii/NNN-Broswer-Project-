@@ -5,7 +5,7 @@
 A **all-in-one privacy browser** with multi-layer encrypted routing, hidden services, and multi-network support.
 
 **GitHub:** github.com/LeviNorthXiii/nnn-browser  
-**Status:** Phase 1 Development (Coming September 2026)  
+**Status:** Phase 1 Development (Starting September 2026)  
 **License:** MIT  
 **Creator:** @LeviNorthXiii
 
