@@ -32,26 +32,27 @@ Traditional browsers:
 ---
 All-in-One Browser
 ____________
-] Browser :- 
-NNN Browser 
-NNN Browser alpha
+] Browser :-
+
+1. NNN Browser 
+2. NNN Browser alpha (Beta Version)
 
 Window / Linux / MacOS / Android 
 Open-source
 GeckoView based
-NNN Network E2EE
+NNN Network & E2EE
 Dual Technology Users 
 _______________
 (NNN Network) 
 
 NNN Connection: (By defualt)
-(User ──E2EE──> NNN Relay ──> site)
+(User ──E2EE──> NNN network──> NNN Relay ──> site)
 
 .nnn Network (.nnn site) 
 (User ──E2EE──> NNN Network ──>NNN Relay ──> NNN Node ──> .nnn Site)
 
-IP address: (User IP ──Session X──> NNN Network (User IP → NNN IP) ──Session Y
-──> NNN Relay (NNN IP → NNN-R IP) ──Session Z──> NNN Node → .nnn Site)
+IP address: (User IP ──Session X──> NNN Network (User IP → NNN IP)──
+──Session Y ──> NNN Relay (NNN IP → NNN-R IP) ──Session Z──> NNN Node → .nnn Site)
 
 ______________
 ]Hidden service (Sites):-
