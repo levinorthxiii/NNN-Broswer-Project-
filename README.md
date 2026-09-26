@@ -27,6 +27,7 @@ Traditional browsers:
 - ✅ ISPs can't see which sites you visit (encrypted)
 - ✅ Your IP is hidden at every hop
 - ✅ No ads, no tracking, no surveillance
+- ✅ NNN-Network & .nnn (nodsite)
 - ✅ Multi-network support (Tor, I2P, IPFS, and more)
 - ✅ Faster than Tor, more private than VPN
 
