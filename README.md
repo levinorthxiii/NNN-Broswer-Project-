@@ -1,5 +1,5 @@
-# NNN-Broswer-Project-
-# 🔐 NNN Browser - Privacy Through Layers
+# NNN-Browser
+# 🔵 NNN Browser - Privacy Through Layers
 
 A **all-in-one privacy browser** with multi-layer encrypted routing, hidden services, and multi-network support.
 
